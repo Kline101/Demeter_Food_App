@@ -1,0 +1,6 @@
+python3 pip
+flask
+python-dotenv
+clarifai_grpc
+pandas
+scikit-learn
