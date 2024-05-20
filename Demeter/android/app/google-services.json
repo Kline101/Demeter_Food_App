@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576534389587",
+    "project_id": "demeter-a4b23",
+    "storage_bucket": "demeter-a4b23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576534389587:android:6676369ea599604973b7a6",
+        "android_client_info": {
+          "package_name": "com.dcudemeter.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADMCnxvfOlA0y6NtnQS6NH8osuO2khdrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
